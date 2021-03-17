@@ -1,0 +1,15 @@
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.exe
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.deps.json
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.runtimeconfig.json
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.runtimeconfig.dev.json
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.dll
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.pdb
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.csprojAssemblyReference.cache
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.Form1.resources
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.csproj.GenerateResource.cache
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.AssemblyInfoInputs.cache
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.AssemblyInfo.cs
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.dll
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.pdb
+C:\Users\sasha\Desktop\portfolio projects\C#\NoteApp\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.genruntimeconfig.cache
